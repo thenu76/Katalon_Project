@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Confirm_button</name>
+   <tag></tag>
+   <elementGuidId>b4feb3af-efff-4d7a-ae61-7a659711f311</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-default.btn-lg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>62662180-92c9-4bdc-a7be-e24f183f5151</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-default btn-lg</value>
+      <webElementGuid>15b6afa0-f0de-45fd-9048-84a45c0b1ffd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>myConfirmFunction()</value>
+      <webElementGuid>1838bc8e-4942-472d-baab-77650af2402f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Click me!</value>
+      <webElementGuid>9a30f8f7-0aa0-4d89-9c10-cb2c8d631e05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;easycont&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 text-left&quot;]/div[@class=&quot;panel panel-primary&quot;]/div[@class=&quot;panel-body&quot;]/button[@class=&quot;btn btn-default btn-lg&quot;]</value>
+      <webElementGuid>67a3890c-128e-4bfd-9edd-79b91e0b78ed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@onclick='myConfirmFunction()']</value>
+      <webElementGuid>6c9c6a64-8134-439b-b383-27a6e3e9bae0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='easycont']/div/div[2]/div[2]/div[2]/button</value>
+      <webElementGuid>d88520d3-0ea2-4afd-b150-addcebc6954b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click the button to display an confirm box:'])[1]/following::button[1]</value>
+      <webElementGuid>71859a6d-7c11-4cb6-a60c-9727cd6022c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Java Script Confirm Box'])[1]/following::button[1]</value>
+      <webElementGuid>3bd14adf-89e4-443c-84aa-7de32e0ae272</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Java Script Alert Box'])[2]/preceding::button[1]</value>
+      <webElementGuid>4f29dc43-ceb2-4864-af92-66f7e40f47ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click below button for prompt box.'])[1]/preceding::button[1]</value>
+      <webElementGuid>a8613a87-11d6-48b6-b2c6-6c3ee12959c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/button</value>
+      <webElementGuid>c6d3349c-37d3-458f-95b6-1817417e2193</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Click me!' or . = 'Click me!')]</value>
+      <webElementGuid>00d25323-f0d0-4f5e-91bf-1c5a3541e9a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

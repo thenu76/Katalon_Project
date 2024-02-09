@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Prompt_Button</name>
+   <tag></tag>
+   <elementGuidId>57c3a57c-9e19-4ff9-ad63-362e7ae000d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@onclick='myPromptFunction()']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>18908062-464e-4546-844d-f607a3b25984</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-default btn-lg</value>
+      <webElementGuid>b8797272-4b5e-40de-a59e-fd460f3f0f94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>myPromptFunction()</value>
+      <webElementGuid>2b5487ee-25b1-41b9-a55f-92782c808ad5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Click for Prompt Box</value>
+      <webElementGuid>61a40fa0-2f26-4eba-b186-76298890573c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;easycont&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 text-left&quot;]/div[@class=&quot;panel panel-primary&quot;]/div[@class=&quot;panel-body&quot;]/button[@class=&quot;btn btn-default btn-lg&quot;]</value>
+      <webElementGuid>7489b7c3-6cc2-4728-bd77-86de2144d558</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@onclick='myPromptFunction()']</value>
+      <webElementGuid>92d10b99-59ff-4d27-8ca3-780234a89733</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='easycont']/div/div[2]/div[3]/div[2]/button</value>
+      <webElementGuid>2371d144-4262-4c9b-bee7-fbd265fb662b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click below button for prompt box.'])[1]/following::button[1]</value>
+      <webElementGuid>2adb0cc1-3584-48e7-bb34-62d006f2fdf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Java Script Alert Box'])[2]/following::button[1]</value>
+      <webElementGuid>e5e17b34-ec7b-4953-989c-9bd50ed5a1e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tutorials Menu'])[1]/preceding::button[1]</value>
+      <webElementGuid>8c1bd87e-273f-464e-9b33-0a83e3b51b56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selenium Tutorials'])[1]/preceding::button[1]</value>
+      <webElementGuid>57e4906e-d3b0-4bdf-a50a-a7a96ccd3702</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Click for Prompt Box']/parent::*</value>
+      <webElementGuid>8db5d379-eb0a-4e65-a6f2-0f651c7c77aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/button</value>
+      <webElementGuid>86e4d6bf-24cb-439a-9d84-b9d3d458095f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Click for Prompt Box' or . = 'Click for Prompt Box')]</value>
+      <webElementGuid>9c3a54ba-5e71-43bd-8aee-280628241e11</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

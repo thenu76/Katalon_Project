@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>source</name>
+   <tag></tag>
+   <elementGuidId>cc45305b-420d-4c35-bc19-d2c069b9b2da</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='draggable']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#draggable</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>34e72a8a-80b1-43cf-94c6-2c161c75934b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>draggable</value>
+      <webElementGuid>2c1324bc-728e-4415-988d-1685ebe291a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-widget-content ui-draggable ui-draggable-handle</value>
+      <webElementGuid>bfad45d5-9003-410b-9968-98a87552f305</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+	Drag me to my target
+</value>
+      <webElementGuid>23aed783-feab-4590-b263-e600ec971629</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;draggable&quot;)</value>
+      <webElementGuid>77ba2487-8863-482d-b00c-5ce5bcd13f9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Droppable  jQuery UI/iframe_Visual feedback_demo-frame</value>
+      <webElementGuid>b3c06881-7d4e-4b64-9e94-8786acf004de</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='draggable']</value>
+      <webElementGuid>39ea38e5-30ec-462d-89e3-e90dc1850e33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div</value>
+      <webElementGuid>cbefc7d1-e835-47cd-ae16-a717b9182d27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'draggable' and (text() = '
+	Drag me to my target
+' or . = '
+	Drag me to my target
+')]</value>
+      <webElementGuid>dd4cba15-b981-4e90-b277-4faaeb6bae0a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

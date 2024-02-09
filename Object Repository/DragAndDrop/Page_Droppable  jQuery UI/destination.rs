@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>destination</name>
+   <tag></tag>
+   <elementGuidId>9e764b6a-2531-4723-8388-4fcace6a814c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='droppable']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#droppable</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3372dc9a-d420-4d60-9b04-7753be0bb1f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>droppable</value>
+      <webElementGuid>8d920f17-4366-4402-b552-e8dbd64855db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-widget-header ui-droppable</value>
+      <webElementGuid>57beeb93-47a4-4047-8799-18adec80a334</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+	Drop here
+</value>
+      <webElementGuid>88e6bbb8-2803-4381-a26c-86dbc15527a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;droppable&quot;)</value>
+      <webElementGuid>d194fcf1-adab-49df-9528-1206a2c63d51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/DragAndDrop/Page_Droppable  jQuery UI/iframe_Visual feedback_demo-frame</value>
+      <webElementGuid>4f508f8d-40ad-46f7-9b82-2487a97eda7a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='droppable']</value>
+      <webElementGuid>b9ea4ff9-38ec-4394-9f1e-367db74af074</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]</value>
+      <webElementGuid>2be4496c-6aa1-435a-a6f1-884d7e0c798a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'droppable' and (text() = '
+	Drop here
+' or . = '
+	Drop here
+')]</value>
+      <webElementGuid>d066121f-c26b-4430-a485-d43c95ac2e43</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

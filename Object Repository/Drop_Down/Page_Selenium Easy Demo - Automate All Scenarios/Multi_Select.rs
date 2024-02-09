@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Multi_Select</name>
+   <tag></tag>
+   <elementGuidId>aa67aded-5d79-46e0-8bf9-5e98d71590e7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#multi-select</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='multi-select']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>88693f43-69ba-45cf-bc97-19def1a798e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>10</value>
+      <webElementGuid>acc65115-99a7-4872-8918-52f8be1d7b0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>States</value>
+      <webElementGuid>8088f601-0e6b-4481-9214-4efcd9a04621</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>multiple</name>
+      <type>Main</type>
+      <value>multiple</value>
+      <webElementGuid>6cb3cb2d-71c9-43a5-b7da-f4308fa1b5aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>multi-select</value>
+      <webElementGuid>a777e8c7-f76e-4fd3-aa2b-d4dd0744f35a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+				California
+				Florida
+				New Jersey
+				New York
+				Ohio
+				Texas
+				Pennsylvania
+				Washington
+			</value>
+      <webElementGuid>a2aeacee-baf1-4fa5-b9d7-612e15e9eb3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;multi-select&quot;)</value>
+      <webElementGuid>cbc9fb5b-eb73-4709-b8ce-cb16af2c3b05</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='multi-select']</value>
+      <webElementGuid>97535cf5-744e-4307-b320-8178afb3105b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='easycont']/div/div[2]/div[2]/div[2]/select</value>
+      <webElementGuid>c6790229-48b2-4ac3-8853-ccd8f46c9236</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Multi Select List Demo'])[1]/following::select[1]</value>
+      <webElementGuid>9c56222c-abeb-4c6d-ab5b-42c45707b855</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select a day (select one):'])[1]/following::select[2]</value>
+      <webElementGuid>3f7bbd73-d16b-44db-884a-3025e7f436b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='First Selected'])[1]/preceding::select[1]</value>
+      <webElementGuid>9a3226b9-52dc-4016-993e-e672d2c34fcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get All Selected'])[1]/preceding::select[1]</value>
+      <webElementGuid>a21747e5-35cf-4326-9727-a73c6df01373</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/select</value>
+      <webElementGuid>6deaa38f-4623-4f18-bd8d-da5f9da4b717</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'States' and @id = 'multi-select' and (text() = '
+				California
+				Florida
+				New Jersey
+				New York
+				Ohio
+				Texas
+				Pennsylvania
+				Washington
+			' or . = '
+				California
+				Florida
+				New Jersey
+				New York
+				Ohio
+				Texas
+				Pennsylvania
+				Washington
+			')]</value>
+      <webElementGuid>97a1ab06-7992-4199-85ff-924f26e12c23</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
